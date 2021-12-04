@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_array">
+        <item>Персидская кошка</item>
+        <item>Мейн-кун</item>
+        <item>Сибирская порода кошек</item>
+        <item>Невская маскарадная кошка</item>
+        <item>Бенгальская кошка</item>
+        <item>Абиссинская кошка</item>
+        <item>Британская короткошерстная кошка</item>
+        <item>Шотландская вислоухая порода кошек</item>
+        <item>Сфинкс</item>
+
+    </string-array>
+
+    <string-array name="food_array">
+        <item>Сухой корм</item>
+        <item>Влажный корм</item>
+        <item>Натуральная пища</item>
+
+    </string-array>
+    <string-array name="diseases_array">
+        <item>Заболевания мочеполовой системы</item>
+        <item>Заболевания желудочно-кишечного тракта</item>
+        <item>Заболевания кожи и шерсти. Аллергические реакции</item>
+        <item>Заболевания зубов</item>
+        <item>Ожирение</item>
+        <item>Инфекционные заболевания</item>
+        <item>Бешенство</item>
+    </string-array>
+
+    <string-array name="care_array">
+        <item>Уход за шерстью</item>
+        <item>Уход за когтями</item>
+        <item>Уход за ушами</item>
+        <item>Уход за глазами</item>
+    </string-array>
+</resources>
